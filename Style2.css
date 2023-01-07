@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(242, 232, 232, 0.407);
+}
+
+img {
+    border: 10px solid rgb(40, 28, 28);
+    margin: 20px;
+    /* padding: 20px; */
+}
+
+h1{
+    text-align: right;
+    margin-right: 2rem;
+    /* font-family: 'Kaushan Script'; */
+    /* font-family: 'Reenie Beanie'; */
+    /* font-family: Permanent Marker; */
+    /* font-family: Cookie; */
+    font-family: Rock Salt;
+    color: rgba(156, 12, 10, 0.881);
+    font-size: 3.5em;
+    margin-bottom: 4px;
+}
+
+div{
+    color: rgba(156, 12, 10, 0.881);
+    /* font-family: 'Kaushan Script'; */
+    /* font-family: 'Reenie Beanie'; */
+    font-family: Shadows Into Light;
+    font-size: 1.5em;
+    text-align: right;
+    margin-right: 2rem;
+
+}
+
+a{
+    text-decoration: none;
+}
